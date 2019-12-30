@@ -1,39 +1,39 @@
-# Welcome to My HomePage
+# 欢迎来到我的主页
 
-My motto : If you have a goal, then you will find a way to achieve it. 
+My motto : 如果你有一个目标，那么你可以去实现它。
 
-You can find all the information [on GitHub](https://github.com/gaoljhy)
+你可以在 [GitHub](https://github.com/gaoljhy) 上找到有关我的一部分信息
 
-> Because it was used as a whole, the personal blog is now changed to private. Please contact me if necessary.
->> So. you can find my blog Folder infomation in [this](./Folder)
+> 因博客中存在个人隐私以及文章被随意转发的原因，所以现已更改为私人仓库。 
+> > 当然您可以在 [这里](./Folder)中找到我的博客中最近的文件目录
+> > 或者尝试向请求查看token
 
 ---
 
-Scholar and Developer
+个人简介
 
 -----------------------;
 
-- Name:[name] 高荣基
-- Email: <gjlove666@hotmail.com>
-- Blog: [github](https://gaoljhy.github.io/blog)
-- && Blog：[csdn](https://blog.csdn.net/lendq)
-- Phone: [18503498358](tel://18503498358)
+- 名字:[name] 高荣基
+- 邮箱: <gjlove666@hotmail.com>
+- 博客: [github](https://gaoljhy.github.io/blog)
+- && 之前的博客：[csdn](https://blog.csdn.net/lendq)
+- tel: [18503498358](tel://18503498358)
 - Github: [gaoljhy](http://github.com/gaoljhy)
-- Site: <http://grj321.com>
+- 个人主页: <http://grj321.com>
 - Dream position: **R&D or Operations**
 
 
-## Summary
+## 个人总结
 
 -------
 
-- Exercise regularly (Six-pack abs)
-- Personality independence (bad words)
-- Keen to learn without interruption (see my github profile)
-- Worked on projects with others, and also independently assumed some - small projects
-- Received some minor competition awards (ACM,Innovation and entrepreneurship,Robot contest)
-- Hope for greater progress
-- self-study ability (The Internet is the best teacher in my life.)
+- 定期锻炼（六块腹肌）
+- 人格独立（有好有坏）
+- 热衷于自学（互联网是我一生中最好的老师）
+- 与他人一起从事过一些项目工作，也独立承担了一些小型项目
+- 获得了一些竞赛的奖项（ACM，创新与创业类，机器人竞赛等）
+- 希望更大的进步
 
 ----------------
 
@@ -41,7 +41,7 @@ Scholar and Developer
 
 ### Inner Mongolia Agricultural University
 
-BS , Network Engineering , 2016-2020
+BS , 网络工程 , 2016-2020
 
 ----------------
 
@@ -49,21 +49,21 @@ BS , Network Engineering , 2016-2020
 
 ### 蒙神蜂 （2017年8月 ~ 2018年3月 ）
 
-- Mall Backend
+- 商城
 
-In this project, the API interaction design of the front and back ends, and user permission design, the user design of the Linux system is borrowed from the user design, and finally the multi-user different permissions are realized.
+在本项目中，前端和后端的交互设计以及数据统计的编码，统计当日交易订单数及交易总额，并做简单图形化处理，
 
 - Docker Ops
 
-In the application deployment, my colleague and I completed the migration from the traditional deployment to the Docker Cluster, which realized the use of `24/7` all-weather, and facilitated the deployment of the new version of the application multiple times. 
+在应用程序部署中，完成了从传统部署到Docker集群的迁移，这实现了全天候 `24/7` 使，并多次完成了新版本应用程序的部署。
 
 ----------
 
 ## Skills & Expertise
 
-These are languages, tools, experience and practices to which I have had exposure over the past 5 years or so.
+这些是过去五年左右我接触过的语言，工具，经验和做法。
 
-My major road with python dev and container ops
+日常使用 python dev 和 container ops
 
 ### Programming Languages
 
@@ -143,14 +143,12 @@ My major road with python dev and container ops
 ### Others
 
 - vscode-extension development
-- workflow use
+- workflow && automater use
 - ansible , paramiko
 - Zabbix
 - Homemade OS operate (in raspberry pi)
 - Self-design language
 - self-design hardware (Proteus)
-- ACM competition second prize
-- National Robot Competition Second Prize
 
 ----------------
 
