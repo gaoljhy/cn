@@ -45,53 +45,28 @@ BS , 网络工程 , 2016-2020
 
 ----------------
 
-## Work Experience
-
-### 蒙神蜂 （2017年8月 ~ 2018年3月 ）
-
-- 商城
-
-在本项目中，前端和后端的交互设计以及数据统计的编码，统计当日交易订单数及交易总额，并做图形化处理，
-
-- Docker Ops
-
-在应用程序部署中，完成了从传统部署到Docker集群的迁移，这实现了全天候 `24/7` 使，并多次完成了新版本应用程序的部署。
-
-----------
-
 ## Skills & Expertise
 
-这些是过去五年左右我接触过的语言，工具，经验和做法。
+> 这些是过去五年左右我接触过的语言，工具，经验和做法。
 
-日常使用 python dev 和 container ops
+> 日常使用 python Dev 和 container Ops
 
-### Programming Languages
+•	MacOS, Linux ,Windows熟练使用,会编写Shell脚本，会进行网络调配，日常三系统切换。 
+•	前端能使用 Bootstrap ,Jquery 框架 
+•	后端使用过 Spring Boot、flask、Django 框架，其他框架也能用，不是专精 但是项目中用过，官方手册也通读过 
+•	复现过《30 天自制操作系统》 ,以及课程设计并独立完成基于Linux的Raspberry pi OS ，用Proteus 实现过一个32位流水线CPU
+•	参与过tensorflow开源文档编写校对，以及wiki社区，也为万星开源项目提交过代码
+•	 插件开发做过vscode和Firefox的 
+•	搭建过博客，懂计算机网络基本知识，会配置 Apache、MySQL 、Redis 等及简单集群搭建。 
+•	数据结构扎实，算法学了一些，ACM主力军，Leetcode 刷了 100+题目 随机的那种 一般有思路半小时解决，没思路就慢慢磕。 
+•	使用过 Arduino 和树莓派开发，无人机传感，夹取控制等，自动滑轨，手势识别等等小玩意。 
+•	写过分布式爬虫，一般网站都能爬 ，后来基于Celery做过一个爬虫框架 
+•	语言的话 Python /c/c++ 熟练， php / Java /C sharp/JavaScript 会用 
 
-> Primary
+获奖情况的话全国3个， 市级3个，校级不算，工程做过一些，接过 3 个外包，小程序前端一个（套模板），OpenCV的图像识别处理一个，商城二次开发一个，问卷调查一个， 文档管理一个
 
-- [C/C++](https://isocpp.org/)
-- [python](https://www.python.org/)
-- [Bash](https://www.gnu.org/software/bash/)
-
-
-### Frameworks & APIs
-
-- [flask](https://palletsprojects.com/p/flask/)
-- [Django](http://www.djangoproject.com)
-- [Celery](https://github.com/celery/celery)
-
->  [SpringBoot](https://spring.io/projects/spring-boot)
->  [Wordpress](http://wordpress.org)
->  [bootstrap](https://www.bootcss.com/)
->  [jQuery](http://jquery.com)
 
 ### Software & Tools
-
-
-- [Mac OS X](http://apple.com/macosx)
-- [Ubuntu Linux](http://ubuntu.com)
-- [Centos Linux](https://www.centos.org/)
-- [Gentoo](https://www.gentoo.org/)
 
 - [docker](https://www.docker.com/)
 - [Git](http://git-scm.com)
@@ -102,7 +77,6 @@ BS , 网络工程 , 2016-2020
 - [Screen](http://screen.sourceforge.net)
 - [Apple XCode](http://developer.apple.com)
 - [kubernetes](https://kubernetes.io/)
-
 - [postwoman](https://postwoman.io/)
 
 
@@ -114,28 +88,16 @@ BS , 网络工程 , 2016-2020
 
 ### Markup/Templating Languages & Preprocessors
 
-- [HTML](http://developers.whatwg.org)
-- [Markdown](http://daringfireball.net/projects/markdown)
-- [CSS](http://www.w3.org/Style/CSS/Overview.en.html)
-
 - [xml](https://www.w3schools.com/xml/)
 - [json](https://json.org/)
 - [Yaml](https://yaml.org/)
 - [SVG](https://www.w3schools.com/graphics/svg_intro.asp)
 
-> secondary (once in a while)
-
-- [java](https://www.java.com/en/)
-- [CSharp](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
-- [PHP](http://php.net)
-- [JavaScript](http://developer.mozilla.org/en/JavaScript)
-- [Node.js](https://nodejs.org/en/)
-
--  [Tomcat](http://tomcat.apache.com)
--  [maven](https://maven.apache.org)
--  [junit](https://junit.org/junit5/)
--  [NPM](https://www.npmjs.cn/)
--  [yarn](https://yarn.bootcss.com/)
+- [Tomcat](http://tomcat.apache.com)
+- [maven](https://maven.apache.org)
+- [junit](https://junit.org/junit5/)
+- [NPM](https://www.npmjs.cn/)
+- [yarn](https://yarn.bootcss.com/)
 
 
 ----------------
