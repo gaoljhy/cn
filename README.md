@@ -68,54 +68,54 @@ BS , 网络工程 , 2016-2020
 
 ### Software & Tools
 
-- [docker](https://www.docker.com/)
-- [Git](http://git-scm.com)
-- [VScode](https://www.gnu.org/software/bash/)
-- [IDEA](https://www.jetbrains.com/idea/)
-- [PyCharm](https://www.jetbrains.com/pycharm/)
-- [Vim](http://www.vim.org)
-- [Screen](http://screen.sourceforge.net)
-- [Apple XCode](http://developer.apple.com)
-- [kubernetes](https://kubernetes.io/)
-- [postwoman](https://postwoman.io/)
++ [docker](https://www.docker.com/)
++ [Git](http://git-scm.com)
++ [VScode](https://www.gnu.org/software/bash/)
++ [IDEA](https://www.jetbrains.com/idea/)
++ [PyCharm](https://www.jetbrains.com/pycharm/)
++ [Vim](http://www.vim.org)
++ [Screen](http://screen.sourceforge.net)
++ [Apple XCode](http://developer.apple.com)
++ [kubernetes](https://kubernetes.io/)
++ [postwoman](https://postwoman.io/)
 
 
-- [SQLite](https://sqlite.org/index.html)
-- [MySQL](http://mysql.com)
++ [SQLite](https://sqlite.org/index.html)
++ [MySQL](http://mysql.com)
 
-- [Nginx](http://wiki.nginx.org)
-- [Redis](https://redis.io/)
++ [Nginx](http://wiki.nginx.org)
++ [Redis](https://redis.io/)
 
 ### Markup/Templating Languages & Preprocessors
 
-- [xml](https://www.w3schools.com/xml/)
-- [json](https://json.org/)
-- [Yaml](https://yaml.org/)
-- [SVG](https://www.w3schools.com/graphics/svg_intro.asp)
++ [xml](https://www.w3schools.com/xml/)
++ [json](https://json.org/)
++ [Yaml](https://yaml.org/)
++ [SVG](https://www.w3schools.com/graphics/svg_intro.asp)
 
-- [Tomcat](http://tomcat.apache.com)
-- [maven](https://maven.apache.org)
-- [junit](https://junit.org/junit5/)
-- [NPM](https://www.npmjs.cn/)
-- [yarn](https://yarn.bootcss.com/)
++ [Tomcat](http://tomcat.apache.com)
++ [maven](https://maven.apache.org)
++ [junit](https://junit.org/junit5/)
++ [NPM](https://www.npmjs.cn/)
++ [yarn](https://yarn.bootcss.com/)
 
 
 ----------------
 
 ### Others
 
-- vscode-extension development
-- workflow && automater use
-- ansible , paramiko
-- Zabbix
-- Homemade OS operate (in raspberry pi)
-- Self-design language
-- self-design hardware (Proteus)
++ vscode-extension development
++ workflow && automater use
++ ansible , paramiko
++ Zabbix
++ Homemade OS operate (in raspberry pi)
++ Self-design language
++ self-design hardware (Proteus)
 
 ----------------
 
 ## Hardware
 
-- [Ardunio](https://www.arduino.cc/)
-- [Rasberry Pi](https://www.raspberrypi.org/)
-- [Proteus](https://www.proteus.com/)
++ [Ardunio](https://www.arduino.cc/)
++ [Rasberry Pi](https://www.raspberrypi.org/)
++ [Proteus](https://www.proteus.com/)
