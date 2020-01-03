@@ -51,17 +51,17 @@ BS , 网络工程 , 2016-2020
 
 > 日常使用 python Dev 和 container Ops
 
-•	MacOS, Linux ,Windows熟练使用,会编写Shell脚本，会进行网络调配，日常三系统切换。 
-•	前端能使用 Bootstrap ,Jquery 框架 
-•	后端使用过 Spring Boot、flask、Django 框架，其他框架也能用，不是专精 但是项目中用过，官方手册也通读过 
-•	复现过《30 天自制操作系统》 ,以及课程设计并独立完成基于Linux的Raspberry pi OS ，用Proteus 实现过一个32位流水线CPU
-•	参与过tensorflow开源文档编写校对，以及wiki社区，也为万星开源项目提交过代码
-•	 插件开发做过vscode和Firefox的 
-•	搭建过博客，懂计算机网络基本知识，会配置 Apache、MySQL 、Redis 等及简单集群搭建。 
-•	数据结构扎实，算法学了一些，ACM主力军，Leetcode 刷了 100+题目 随机的那种 一般有思路半小时解决，没思路就慢慢磕。 
-•	使用过 Arduino 和树莓派开发，无人机传感，夹取控制等，自动滑轨，手势识别等等小玩意。 
-•	写过分布式爬虫，一般网站都能爬 ，后来基于Celery做过一个爬虫框架 
-•	语言的话 Python /c/c++ 熟练， php / Java /C sharp/JavaScript 会用 
++ MacOS, Linux ,Windows熟练使用,会编写Shell脚本，会进行网络调配，日常三系统切换。 
++ 前端能使用 Bootstrap ,Jquery 框架 
++ 后端使用过 Spring Boot、flask、Django 框架，其他框架也能用，不是专精 但是项目中用过，官方手册也通读过 
++ 复现过《30 天自制操作系统》 ,以及课程设计并独立完成基于Linux的Raspberry pi OS ，用Proteus 实现过一个32位流水线CPU
++ 参与过tensorflow开源文档编写校对，以及wiki社区，也为万星开源项目提交过代码
++ 插件开发做过vscode和Firefox的 
++ 搭建过博客，懂计算机网络基本知识，会配置 Apache、MySQL 、Redis 等及简单集群搭建。 
++ 数据结构扎实，算法学了一些，ACM主力军，Leetcode 刷了 100+题目 随机的那种 一般有思路半小时解决，没思路就慢慢磕。 
++ 使用过 Arduino 和树莓派开发，无人机传感，夹取控制等，自动滑轨，手势识别等等小玩意。 
++ 写过分布式爬虫，一般网站都能爬 ，后来基于Celery做过一个爬虫框架 
++ 语言的话 Python /c/c++ 熟练， php / Java /C sharp/JavaScript 会用 
 
 获奖情况的话全国3个， 市级3个，校级不算，工程做过一些，接过 3 个外包，小程序前端一个（套模板），OpenCV的图像识别处理一个，商城二次开发一个，问卷调查一个， 文档管理一个
 
