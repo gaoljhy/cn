@@ -108,9 +108,6 @@ BS , 网络工程 , 2016-2020
 + [NPM](https://www.npmjs.cn/)
 + [yarn](https://yarn.bootcss.com/)
 
-
-----------------
-
 ### Others
 
 + vscode-extension development
@@ -121,7 +118,7 @@ BS , 网络工程 , 2016-2020
 + Self-design language
 + self-design hardware (Proteus)
 
-----------------
+> 对，这里面是不会提到我打过ctf，也曾是拿着0day补天的淫，如果你想招安全方向的请查看另一份简历
 
 ## Hardware
 
