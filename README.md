@@ -1,4 +1,4 @@
-<center>简历</center>
+<center><h2>简历</h2></center>
 <center>高荣基 | 邮箱 : gjlove666@hotmail.com | 毕业时间 : 2020.06 </center>
 
 <h3>教育背景</h3>
