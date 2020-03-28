@@ -1,5 +1,5 @@
-<center><h2>校招简历(MarkDown)</h2></center>
-<center> 高荣基 | 邮箱 : gjlove666@hotmail.com | 毕业时间 : 2020.06 </center>
+
+高荣基 | 邮箱 : gjlove666@hotmail.com | 毕业时间 : 2020.06 
 
 <h3>教育背景</h3>
 <hr/>
