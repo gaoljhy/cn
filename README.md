@@ -1,6 +1,6 @@
 <center><h2>简历</h2></center>
-<center>姓名: 高荣基 | 邮箱 : gjlove666@hotmail.com | 毕业时间 : 2020.06 </center>
-<center>电话: 15848153480 </center>
+<center>姓名: 高荣基 | 邮箱 : gjlove666@hotmail.com | 毕业时间 : 2020.06 | </center>
+电话: 15848153480 
 
 <h3>教育背景</h3>
 <hr/>
